@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- if this file is empty, then it means your android:minSdkVersion is 1, so there will be some ndk-build error -->

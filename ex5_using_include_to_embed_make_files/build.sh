@@ -1,2 +1,2 @@
 #!/bin/sh
-ndk-build NDK_APPLICATION_MK=./makefiles/Application.mk
+ndk-build NDK_APPLICATION_MK=./makefiles/Application.mk V=1

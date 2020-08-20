@@ -1,4 +1,4 @@
-NDK=/cygdrive/d/development/android-ndk-r10d
+NDK=${NDK_HOME}
 SYSROOT=$NDK/platforms/android-19/arch-arm/
 mkdir -p /cygdrive/d/development/standalone_toolchain/
 chmod -R 777 /tmp/
